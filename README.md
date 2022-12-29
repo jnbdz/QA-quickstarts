@@ -1,2 +1,2 @@
-# QA-quickstarts-
+# QA-quickstarts
 Quality Assurance Quickstarts
