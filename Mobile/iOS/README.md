@@ -30,3 +30,5 @@ The list of iOS supported certificate providers: https://support.apple.com/en-us
 5. Enable the certification in the simulation you go to the **Settings** App (in the simulation)
     - **General > About > Certificate Trust Settings**
 6. You can now test everything
+
+> Certifications have expiry dates so you might see thoses errors again. You will only need to repeat these steps.
